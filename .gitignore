@@ -1,0 +1,63 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/mobile_client/camsync/android/app/debug/
+/mobile_client/camsync/android/app/profile/
+/mobile_client/camsync/android/app/release/
+
+# Mobile client Flutter generated files
+/mobile_client/camsync/.dart_tool/
+/mobile_client/camsync/.flutter-plugins
+/mobile_client/camsync/.flutter-plugins-dependencies
+/mobile_client/camsync/.packages
+/mobile_client/camsync/build/
+/mobile_client/camsync/android/.gradle/
+/mobile_client/camsync/android/local.properties
+/mobile_client/camsync/android/key.properties
+/mobile_client/camsync/ios/Pods/
+/mobile_client/camsync/ios/.symlinks/
+/mobile_client/camsync/ios/Flutter/ephemeral/
+/mobile_client/camsync/macos/Pods/
+/mobile_client/camsync/macos/Flutter/ephemeral/
+
+# Widget Preview related
+.widget_preview/
