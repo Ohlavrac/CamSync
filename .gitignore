@@ -59,5 +59,10 @@ app.*.map.json
 /mobile_client/camsync/macos/Pods/
 /mobile_client/camsync/macos/Flutter/ephemeral/
 
+/mobile_client/camsync/ios
+/mobile_client/camsync/linux
+/mobile_client/camsync/macos
+/mobile_client/camsync/windows
+
 # Widget Preview related
 .widget_preview/
